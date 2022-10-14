@@ -1,0 +1,15 @@
+C:\DevTest\CacheServiceApp\CacheServiceApp.Services\obj\Debug\net6.0\CacheServiceApp.Services.csproj.AssemblyReference.cache
+C:\DevTest\CacheServiceApp\CacheServiceApp.Services\obj\Debug\net6.0\CacheServiceApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevTest\CacheServiceApp\CacheServiceApp.Services\obj\Debug\net6.0\CacheServiceApp.Services.AssemblyInfoInputs.cache
+C:\DevTest\CacheServiceApp\CacheServiceApp.Services\obj\Debug\net6.0\CacheServiceApp.Services.AssemblyInfo.cs
+C:\DevTest\CacheServiceApp\CacheServiceApp.Services\obj\Debug\net6.0\CacheServiceApp.Services.csproj.CoreCompileInputs.cache
+C:\DevTest\CacheServiceApp\CacheServiceApp.Services\bin\Debug\net6.0\CacheServiceApp.Services.deps.json
+C:\DevTest\CacheServiceApp\CacheServiceApp.Services\bin\Debug\net6.0\CacheServiceApp.Services.dll
+C:\DevTest\CacheServiceApp\CacheServiceApp.Services\bin\Debug\net6.0\CacheServiceApp.Services.pdb
+C:\DevTest\CacheServiceApp\CacheServiceApp.Services\bin\Debug\net6.0\CacheServiceApp.Model.dll
+C:\DevTest\CacheServiceApp\CacheServiceApp.Services\bin\Debug\net6.0\CacheServiceApp.Model.pdb
+C:\DevTest\CacheServiceApp\CacheServiceApp.Services\obj\Debug\net6.0\CacheServiceApp.Services.csproj.CopyComplete
+C:\DevTest\CacheServiceApp\CacheServiceApp.Services\obj\Debug\net6.0\CacheServiceApp.Services.dll
+C:\DevTest\CacheServiceApp\CacheServiceApp.Services\obj\Debug\net6.0\refint\CacheServiceApp.Services.dll
+C:\DevTest\CacheServiceApp\CacheServiceApp.Services\obj\Debug\net6.0\CacheServiceApp.Services.pdb
+C:\DevTest\CacheServiceApp\CacheServiceApp.Services\obj\Debug\net6.0\ref\CacheServiceApp.Services.dll

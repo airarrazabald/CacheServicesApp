@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "63yK+1iJIG6Bziiloru3PmlduR3MU8FB622Z1uKOIpueRqy3tY0wVrxd5LSFyPRd8Rs7LAHVUXguGW8Et6qR3g==",
+  "success": true,
+  "projectFilePath": "C:\\DevTest\\CacheServiceApp\\CacheServiceApp.Services\\CacheServiceApp.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\airarrazabal.ex\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\airarrazabal.ex\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\airarrazabal.ex\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\airarrazabal.ex\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

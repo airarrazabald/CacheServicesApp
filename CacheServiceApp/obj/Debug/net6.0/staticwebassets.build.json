@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "krJZsH6PJP2k6zrtLb/qBzDhIeU0p3HqBeTR6xqvLnc=",
+  "Source": "CacheServiceApp",
+  "BasePath": "_content/CacheServiceApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
